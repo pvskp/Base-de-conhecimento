@@ -14,7 +14,15 @@
     * <a href="https://github.com/basarat/typescript-book">TypeScript Deep Dive </a> (<a href="https://github.com/basarat">basarat</a>)
     * <a href="https://github.com/codeguy/php-the-right-way/">PHP: The Right Way </a> (<a href="https://github.com/codeguy">codeguy</a>)
     * <a href="https://github.com/inancgumus/learngo">Learn Go </a> (<a href="https://github.com/inancgumus">inancgumus</a>)
-   
+  
+  * Cursos gratuitos (**Nem todos irão fornecer certificados**):
+    * <a href="https://www.udemy.com/course/code-your-first-game/">Code Your First Game: Arcade Classic in JavaScript on Canvas</a> (Udemy)
+    * <a href="https://www.udemy.com/course/programming-for-entrepreneurs-javascript/">Programming for Entrepreneurs - JavaScript</a> (Udemy)
+    * <a href="https://www.udemy.com/course/start-javascript/">Start with Javascript (2021)</a> (Udemy)
+    * <a href="https://www.udemy.com/course/javascript-programming-for-beginners/">Javascript Programming For Beginners (2021)</a> (Udemy)
+    * <a href="https://www.udemy.com/course/javascript-darwish/">JavaScript for beginners</a> (Udemy)
+    * <a href="https://www.udemy.com/course/fundamentals-of-javascript-mask/">Fundamentals of JavaScript</a> (Udemy)
+  
 ## Desenvolvimento web <a name="web"></a>
 * Repositórios: 
   * <a href="https://github.com/microsoft/Web-Dev-For-Beginners">Web Development for Beginners</a><a href="https://github.com/microsoft"> (Microsoft)</a>
@@ -41,6 +49,8 @@
   * <a href="https://github.com/ossu/computer-science">Self-taught education in Computer Science </a> (<a href="https://github.com/ossu">ossu</a>)
 
 ## Credits
-@denicmarko on twitter by the Thread "Useful websites for web developers" -> https://twitter.com/denicmarko/status/1430843440976351234
-@denicmarko on twitter by the Thread "GitHub repositories to learn programming" -> https://twitter.com/denicmarko/status/1429390999445512194
+* @denicmarko on twitter by the Thread "Useful websites for web developers" -> <a href="https://twitter.com/denicmarko/status/1430843440976351234"> here</a>.
+* @denicmarko on twitter by the Thread "GitHub repositories to learn programming" -> <a href="https://twitter.com/denicmarko/status/1429390999445512194"> here</a>.
+* @VladPasca5 on twitter by the Thread "10 FREE Udemy courses for you to learn JavaScript
+" -> <a href="https://twitter.com/VladPasca5/status/1430878504833327105"> here</a>.
 
