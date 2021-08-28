@@ -22,6 +22,10 @@
     * <a href="https://www.udemy.com/course/javascript-programming-for-beginners/">Javascript Programming For Beginners (2021)</a> (Udemy)
     * <a href="https://www.udemy.com/course/javascript-darwish/">JavaScript for beginners</a> (Udemy)
     * <a href="https://www.udemy.com/course/fundamentals-of-javascript-mask/">Fundamentals of JavaScript</a> (Udemy)
+    * <a href="https://twitter.com/VladPasca5/status/1430878504833327105">Javascript Array Methods</a> (Udemy)
+    * <a href="https://www.udemy.com/course/javascript-code-exercise/">Pure JavaScript Calculator Code ES6 Learn JavaScript</a> (Udemy)
+    * <a href="https://www.udemy.com/course/javascript-for-qa-engineers-and-sdets/">JavaScript for QA Engineers and SDETs</a> (Udemy)
+    * <a href="https://www.udemy.com/course/learn-javascript-get-hired-essentials/">Learn JavaScript, Get Hired | The Essentials</a> (Udemy)
   
 ## Desenvolvimento web <a name="web"></a>
 * Repositórios: 
