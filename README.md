@@ -3,7 +3,7 @@
 **Este repositório tem como objetivo agrupar uma série de links relevantes no que se refere a tecnologia para desenvolvedores, independente do seu nível de conhecimento.**
 
 1. [Linguagens de programação](#languages)
-2. [Web development](#web)
+2. [Desenvolvimento web](#web)
 3. [Ferramentas do dev](#tools)
 4. [Ciência da Computação](#cs)
 5. [Credits](#credits)
