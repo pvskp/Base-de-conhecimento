@@ -10,23 +10,24 @@
 
 ## Linguagens de programação <a name="languages"></a>
   * Repositórios:
-    * <a href="https://github.com/Asabeneh/30-Days-Of-JavaScript">30 Days Of JavaScript </a> (<a href="https://github.com/Asabeneh">Asabeneh</a>)
-    * <a href="https://github.com/Asabeneh/30-Days-Of-Python">30 Days Of Python </a> (<a href="https://github.com/Asabeneh">Asabeneh</a>)
-    * <a href="https://github.com/basarat/typescript-book">TypeScript Deep Dive </a> (<a href="https://github.com/basarat">basarat</a>)
-    * <a href="https://github.com/codeguy/php-the-right-way/">PHP: The Right Way </a> (<a href="https://github.com/codeguy">codeguy</a>)
-    * <a href="https://github.com/inancgumus/learngo">Learn Go </a> (<a href="https://github.com/inancgumus">inancgumus</a>)
+    * <a href="https://github.com/Asabeneh/30-Days-Of-JavaScript">30 Days Of JavaScript </a> (<a href="https://github.com/Asabeneh">Asabeneh</a>) (Javascript)
+    * <a href="https://github.com/Asabeneh/30-Days-Of-Python">30 Days Of Python </a> (<a href="https://github.com/Asabeneh">Asabeneh</a>) (Python)
+    * <a href="https://github.com/basarat/typescript-book">TypeScript Deep Dive </a> (<a href="https://github.com/basarat">basarat</a>) (Typescript)
+    * <a href="https://github.com/codeguy/php-the-right-way/">PHP: The Right Way </a> (<a href="https://github.com/codeguy">codeguy</a>) (PHP)
+    * <a href="https://github.com/inancgumus/learngo">Learn Go </a> (<a href="https://github.com/inancgumus">inancgumus</a>) (Go)
   
   * Cursos gratuitos (**Nem todos irão fornecer certificados**):
-    * <a href="https://www.udemy.com/course/code-your-first-game/">Code Your First Game: Arcade Classic in JavaScript on Canvas</a> (Udemy)
-    * <a href="https://www.udemy.com/course/programming-for-entrepreneurs-javascript/">Programming for Entrepreneurs - JavaScript</a> (Udemy)
-    * <a href="https://www.udemy.com/course/start-javascript/">Start with Javascript (2021)</a> (Udemy)
-    * <a href="https://www.udemy.com/course/javascript-programming-for-beginners/">Javascript Programming For Beginners (2021)</a> (Udemy)
-    * <a href="https://www.udemy.com/course/javascript-darwish/">JavaScript for beginners</a> (Udemy)
-    * <a href="https://www.udemy.com/course/fundamentals-of-javascript-mask/">Fundamentals of JavaScript</a> (Udemy)
-    * <a href="https://twitter.com/VladPasca5/status/1430878504833327105">Javascript Array Methods</a> (Udemy)
-    * <a href="https://www.udemy.com/course/javascript-code-exercise/">Pure JavaScript Calculator Code ES6 Learn JavaScript</a> (Udemy)
-    * <a href="https://www.udemy.com/course/javascript-for-qa-engineers-and-sdets/">JavaScript for QA Engineers and SDETs</a> (Udemy)
-    * <a href="https://www.udemy.com/course/learn-javascript-get-hired-essentials/">Learn JavaScript, Get Hired | The Essentials</a> (Udemy)
+    * Javascript:
+      * <a href="https://www.udemy.com/course/code-your-first-game/">Code Your First Game: Arcade Classic in JavaScript on Canvas</a> (Udemy) 
+      * <a href="https://www.udemy.com/course/programming-for-entrepreneurs-javascript/">Programming for Entrepreneurs - JavaScript</a> (Udemy)
+      * <a href="https://www.udemy.com/course/start-javascript/">Start with Javascript (2021)</a> (Udemy)
+      * <a href="https://www.udemy.com/course/javascript-programming-for-beginners/">Javascript Programming For Beginners (2021)</a> (Udemy)
+      * <a href="https://www.udemy.com/course/javascript-darwish/">JavaScript for beginners</a> (Udemy)
+      * <a href="https://www.udemy.com/course/fundamentals-of-javascript-mask/">Fundamentals of JavaScript</a> (Udemy)
+      * <a href="https://twitter.com/VladPasca5/status/1430878504833327105">Javascript Array Methods</a> (Udemy)
+      * <a href="https://www.udemy.com/course/javascript-code-exercise/">Pure JavaScript Calculator Code ES6 Learn JavaScript</a> (Udemy)
+      * <a href="https://www.udemy.com/course/javascript-for-qa-engineers-and-sdets/">JavaScript for QA Engineers and SDETs</a> (Udemy)
+      * <a href="https://www.udemy.com/course/learn-javascript-get-hired-essentials/">Learn JavaScript, Get Hired | The Essentials</a> (Udemy)
   
 ## Desenvolvimento web <a name="web"></a>
 * Repositórios: 
