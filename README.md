@@ -23,16 +23,24 @@
 
 * Sites:
   * <a href="https://slickr.vercel.app/app">Slickr</a> (Design)
-      
+  * <a href="https://webframe.xyz/">Webframe</a> (Design)
+  * <a href="https://webgradients.com/">WebGradients</a> (Design)
+  
 
 ## Ferramentas <a name="tools"></a>
   * Repositórios:
-    <a href="https://github.com/arslanbilal/git-cheat-sheet">Git and Git Flow Cheat Sheet</a> (<a href="https://github.com/arslanbilal">arslanbilal</a>) (Git)
-    
+    * <a href="https://github.com/arslanbilal/git-cheat-sheet">Git and Git Flow Cheat Sheet</a> (<a href="https://github.com/arslanbilal">arslanbilal</a>) (Git)
+
+  * Sites:
+    * <a href="https://carbon.now.sh/">Carbon</a> (Para compartilhar seu código de uma forma elegante)
+    * <a href="https://ray.so/">ray.so</a> (Para compartilhar seu código de uma forma elegante)
+    * <a href="https://daily.dev/">daily.dev</a> (Novidades do mundo dev)
+  
     
 ## Ciência da Computação <a name="cs"></a>
   * <a href="https://github.com/ossu/computer-science">Self-taught education in Computer Science </a> (<a href="https://github.com/ossu">ossu</a>)
 
 ## Credits
-@denicmarko on twitter -> https://twitter.com/denicmarko/status/1429390999445512194
+@denicmarko on twitter by the Thread "Useful websites for web developers" -> https://twitter.com/denicmarko/status/1430843440976351234
+@denicmarko on twitter by the Thread "GitHub repositories to learn programming" -> https://twitter.com/denicmarko/status/1429390999445512194
 
