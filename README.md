@@ -5,6 +5,7 @@
 1. [Linguagens de programação](#languages)
 2. [Web development](#web)
 3. [Ferramentas do dev](#tools)
+4. [Ciência da Computação](#cs)
 
 ## Linguagens de programação <a name="languages"></a>
   * Repositórios:
@@ -20,6 +21,9 @@
   * <a href="https://github.com/Asabeneh/30-Days-Of-React">30 Days of React </a> (<a href="https://github.com/Asabeneh">Asabeneh</a>)
   * <a href="https://github.com/AllThingsSmitty/css-protips">CSS Protips </a> (<a href="https://github.com/AllThingsSmitty">AllThingsSmitty</a>)
 
+* Sites:
+  * <a href="https://slickr.vercel.app/app">Slickr</a> (Design)
+      
 
 ## Ferramentas <a name="tools"></a>
   * Repositórios:
@@ -28,3 +32,7 @@
     
 ## Ciência da Computação <a name="cs"></a>
   * <a href="https://github.com/ossu/computer-science">Self-taught education in Computer Science </a> (<a href="https://github.com/ossu">ossu</a>)
+
+## Credits
+@denicmarko on twitter -> https://twitter.com/denicmarko/status/1429390999445512194
+
