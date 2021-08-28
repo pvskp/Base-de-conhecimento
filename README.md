@@ -1,11 +1,12 @@
 # Base de conhecimento
 
-**Este repositório tem como objetivo agrupar uma série de links relevantes no que se refere à tecnologia para desenvolvedores, independente do seu nível de conhecimento.**
+**Este repositório tem como objetivo agrupar uma série de links relevantes no que se refere a tecnologia para desenvolvedores, independente do seu nível de conhecimento.**
 
 1. [Linguagens de programação](#languages)
 2. [Web development](#web)
 3. [Ferramentas do dev](#tools)
 4. [Ciência da Computação](#cs)
+5. [Credits](#credits)
 
 ## Linguagens de programação <a name="languages"></a>
   * Repositórios:
@@ -52,7 +53,7 @@
 ## Ciência da Computação <a name="cs"></a>
   * <a href="https://github.com/ossu/computer-science">Self-taught education in Computer Science </a> (<a href="https://github.com/ossu">ossu</a>)
 
-## Credits
+## Credits <a name="credits"></a>
 * @denicmarko on twitter by the Thread "Useful websites for web developers" -> <a href="https://twitter.com/denicmarko/status/1430843440976351234"> here</a>.
 * @denicmarko on twitter by the Thread "GitHub repositories to learn programming" -> <a href="https://twitter.com/denicmarko/status/1429390999445512194"> here</a>.
 * @VladPasca5 on twitter by the Thread "10 FREE Udemy courses for you to learn JavaScript
