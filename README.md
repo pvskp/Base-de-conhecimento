@@ -55,8 +55,8 @@
   * <a href="https://github.com/ossu/computer-science">Self-taught education in Computer Science </a> (<a href="https://github.com/ossu">ossu</a>)
 
 ## Credits <a name="credits"></a>
-* @denicmarko on twitter by the Thread "Useful websites for web developers" -> <a href="https://twitter.com/denicmarko/status/1430843440976351234"> here</a>.
-* @denicmarko on twitter by the Thread "GitHub repositories to learn programming" -> <a href="https://twitter.com/denicmarko/status/1429390999445512194"> here</a>.
-* @VladPasca5 on twitter by the Thread "10 FREE Udemy courses for you to learn JavaScript
+* @denicmarko on twitter by the thread "Useful websites for web developers" -> <a href="https://twitter.com/denicmarko/status/1430843440976351234"> here</a>.
+* @denicmarko on twitter by the thread "GitHub repositories to learn programming" -> <a href="https://twitter.com/denicmarko/status/1429390999445512194"> here</a>.
+* @VladPasca5 on twitter by the thread "10 FREE Udemy courses for you to learn JavaScript
 " -> <a href="https://twitter.com/VladPasca5/status/1430878504833327105"> here</a>.
 
