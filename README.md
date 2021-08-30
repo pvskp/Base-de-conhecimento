@@ -4,9 +4,11 @@
 
 1. [Linguagens de programação](#languages)
 2. [Desenvolvimento web](#web)
-3. [Ferramentas do dev](#tools)
-4. [Ciência da Computação](#cs)
-5. [Credits](#credits)
+3. [Desenvolvimento de jogos](#game_development)
+4. [Programação competitiva](#competitive)
+5. [Ferramentas do dev](#tools)
+6. [Ciência da Computação](#cs)
+7. [Credits](#credits)
 
 ## Linguagens de programação <a name="languages"></a>
   * Repositórios:
@@ -40,7 +42,27 @@
   * <a href="https://webframe.xyz/">Webframe</a> (Design)
   * <a href="https://webgradients.com/">WebGradients</a> (Design)
   
+## Desenvolvimento de jogos <a name="game_development">
+ * Engines:
+   * <a href="https://godotengine.org/"> Godot </a>
+ 
+ * Ferramentas diversas:
+   * <a href="https://itch.io/"> Itch.io </a> (Para submeter seu jogo)
 
+## Programação Competitiva <a name="competitive">
+ * Repositórios:
+   * <a href="https://github.com/Danihosomi"> Danihosomi </a> (Possui diversos desafios, de várias competições, já resolvidos)
+ 
+ * Sites:
+   * <a href="https://codeforces.com/"> Codeforces </a>
+   * <a href="https://neps.academy/"> Neps Academy </a>
+   * <a href="https://cses.fi/problemset/"> CSES </a>
+   * <a href="https://atcoder.jp/"> AtCoder </a>
+   * <a href="https://www.topcoder.com/"> Topcoder </a>
+   * <a href="https://www.urionlinejudge.com.br/judge/en/login"> URI </a>
+   * <a href="https://www.spoj.com/"> SPOJ </a>
+   * <a href="https://onlinejudge.org/"> UVa </a>
+ 
 ## Ferramentas <a name="tools"></a>
   * Repositórios:
     * <a href="https://github.com/arslanbilal/git-cheat-sheet">Git and Git Flow Cheat Sheet</a> (<a href="https://github.com/arslanbilal">arslanbilal</a>) (Git)
@@ -49,8 +71,9 @@
     * <a href="https://carbon.now.sh/">Carbon</a> (Para compartilhar seu código de uma forma elegante)
     * <a href="https://ray.so/">ray.so</a> (Para compartilhar seu código de uma forma elegante)
     * <a href="https://daily.dev/">daily.dev</a> (Novidades do mundo dev)
-  
-    
+    * <a href="https://replit.com/"> repl.it </a> (Ferramenta para codar com várias pessoas, semelhante ao Live Share do VS Code)
+
+
 ## Ciência da Computação <a name="cs"></a>
   * <a href="https://github.com/ossu/computer-science">Self-taught education in Computer Science </a> (<a href="https://github.com/ossu">ossu</a>)
 
