@@ -76,6 +76,7 @@
 
 ## Ciência da Computação <a name="cs"></a>
   * <a href="https://github.com/ossu/computer-science">Self-taught education in Computer Science </a> (<a href="https://github.com/ossu">ossu</a>)
+  * <a href="https://panda.ime.usp.br/pensepy/static/pensepy/"> Como pensar como um cientista da computação </a> (IME-USP, em Python)
 
 ## Credits <a name="credits"></a>
 * @denicmarko on twitter by the thread "Useful websites for web developers" -> <a href="https://twitter.com/denicmarko/status/1430843440976351234"> here</a>.
